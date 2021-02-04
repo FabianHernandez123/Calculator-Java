@@ -5,7 +5,7 @@ public class Calculator {
 	public static int add(int numOne, int numTwo) {
 		return numOne + numTwo;
 	}
-	public static int substract(int numOne, int numTwo) {
+	public static int subtract(int numOne, int numTwo) {
 		return numOne - numTwo; 
 	}
 	public static int multiply(int numOne, int numTwo) {
